@@ -10,7 +10,7 @@ using Logger = NLog.Logger;
 
 /// <summary>
 /// Customized Logging using NLog to target log files and the Unity Editor Log Console. <br/>
-/// 
+/// https://github.com/imGameNinja/NLog-Example
 /// </summary>
 public static class CustomLogger
 {
